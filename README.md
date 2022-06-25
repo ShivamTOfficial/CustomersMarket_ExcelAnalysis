@@ -6,7 +6,7 @@ Hi there. Below you'll see screeshots of the DashBoard which I worked upon and *
 3. The Raw Data (CSV File)</br></br>
 
 [Click here to find the Video Analysis](https://www.linkedin.com/posts/shivamtofficial_internship-business-project-activity-6931194360004775936-qjQm?utm_source=linkedin_share&utm_medium=member_desktop_web) </br>
-[Click ME to find the Interactive Dashboard](https://onedrive.live.com/view.aspx?resid=805EBE40645B2DD6!4147&ithint=file%2cxlsx&authkey=!AHcWGw29QaTRUVo)
+[Find the Online Interactive Dashboard here](https://onedrive.live.com/view.aspx?resid=805EBE40645B2DD6!4147&ithint=file%2cxlsx&authkey=!AHcWGw29QaTRUVo)
 
 ![image](https://user-images.githubusercontent.com/91784043/174635384-159f51b8-6b0e-4ce3-8e38-1d6be6c25219.png)
 
