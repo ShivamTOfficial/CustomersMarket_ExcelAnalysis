@@ -10,6 +10,22 @@ Hi there. Below you'll see screeshots of the DashBoard which I worked upon and *
 
 ![image](https://user-images.githubusercontent.com/91784043/174635384-159f51b8-6b0e-4ce3-8e38-1d6be6c25219.png)
 
+<p align = "center">
+Fig. 1: Snapshot Of DashBoard
+</p>
+</br>
+
+
 ![image](https://user-images.githubusercontent.com/91784043/174634936-df8ab3ae-fa46-45d9-b7cc-0ef0f053abd9.png)
 
+<p align = "center">
+Fig. 2: Snapshot Of Data
+</p>
+</br>
+
 ![image](https://user-images.githubusercontent.com/91784043/174635757-b91b7a28-b3b6-4183-8258-e4699266ca58.png)
+
+
+<p align = "center">
+Fig. 3: Analysis
+</p>
